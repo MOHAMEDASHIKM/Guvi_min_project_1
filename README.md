@@ -25,10 +25,6 @@ Database: MySQL
 
 Libraries: Pandas, Datetime, mysql-connector-python
 
-Installation
-# Clone this repository
-git clone https://github.com/yourusername/client-query-management.git
-cd client-query-management
 
 # Install dependencies
 pip install -r requirements.txt
